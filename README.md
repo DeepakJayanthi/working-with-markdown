@@ -94,11 +94,15 @@ Deepak Jayanthi
 
 s534843@nwmissouri.edu
 
-- "sdfsdfsdfsdfsdf"
+###  Favourite Places
+
+- "koorg,Araku,Kulu "
 - "Markdown Preview Enhanced"
 - "markdownlint" (recommended)
 
-1. "sdfsdfsdfsdfsdf"
+#### Favourite Sportsmen
+
+1. "M.S.Dhoni,Mccullum,Gayle"
 1. "Markdown Preview Enhanced"
 1. "markdownlint" (recommended)
 
