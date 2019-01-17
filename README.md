@@ -94,4 +94,4 @@ Deepak Jayanthi
 
 s534843@nwmissouri.edu
 
-[!link](https://res.cloudinary.com/dqtgs03ux/image/upload/v1464338821/ro7xu48ndtmwxolycmcm.png,name)
+![link](https://res.cloudinary.com/dqtgs03ux/image/upload/v1464338821/ro7xu48ndtmwxolycmcm.png "name")
